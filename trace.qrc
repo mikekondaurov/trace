@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>images/scale300.png</file>
+        <file>images/scale500.png</file>
+        <file>images/scale150.png</file>
+        <file>images/scale75.png</file>
+        <file>images/scale32.png</file>
+        <file>images/H40.png</file>
+        <file>images/H20.png</file>
+        <file>images/H10.png</file>
+        <file>images/salut.png</file>
+    </qresource>
+</RCC>
